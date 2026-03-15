@@ -1,26 +1,26 @@
 <Solution>
-  <Project Path="AuthService.Api/AuthService.Api.csproj" />
+  <Project Path="AuthService.Api/AuthService.Api.csproj" Id="3b955085-47e5-4cdc-b578-158f9568b19d" />
   <Project Path="AuthService.Test/AuthService.Test.csproj" />
   <Project Path="AuthService/AuthService.csproj" />
-  <Project Path="ChatService.Api/ChatService.Api.csproj" />
+  <Project Path="ChatService.Api/ChatService.Api.csproj" Id="3909f016-5de5-4af6-beff-09da0205fb84" />
   <Project Path="ChatService.Test/ChatService.Test.csproj" />
   <Project Path="ChatService/ChatService.csproj" />
-  <Project Path="DocumentService.Api/DocumentService.Api.csproj" />
+  <Project Path="DocumentService.Api/DocumentService.Api.csproj" Id="726949bc-c1d9-4977-8ada-29616ad491d2" />
   <Project Path="DocumentService.Test/DocumentService.Test.csproj" />
   <Project Path="DocumentService/DocumentService.csproj" />
-  <Project Path="PaymentService.Api/PaymentService.Api.csproj" />
+  <Project Path="PaymentService.Api/PaymentService.Api.csproj" Id="b36c13d0-82fa-4192-8efa-45256ab71be4" />
   <Project Path="PaymentService.Test/PaymentService.Test.csproj" />
   <Project Path="PaymentService/PaymentService.csproj" />
-  <Project Path="PolicySearchService.Api/PolicySearchService.Api.csproj" />
+  <Project Path="PolicySearchService.Api/PolicySearchService.Api.csproj" Id="35e56a17-2c55-4c42-b991-9309deb79c74" />
   <Project Path="PolicySearchService.Test/PolicySearchService.Test.csproj" />
   <Project Path="PolicySearchService/PolicySearchService.csproj" />
-  <Project Path="PolicyService.Api/PolicyService.Api.csproj" />
+  <Project Path="PolicyService.Api/PolicyService.Api.csproj" Id="2b83edd6-545d-4cab-ba55-bc23d8fa05c1" />
   <Project Path="PolicyService.Test/PolicyService.Test.csproj" />
   <Project Path="PolicyService/PolicyService.csproj" />
-  <Project Path="PricingService.Api/PricingService.Api.csproj" />
+  <Project Path="PricingService.Api/PricingService.Api.csproj" Id="cf3a7dc4-852b-4d3f-be09-4ff326cb1d7b" />
   <Project Path="PricingService.Test/PricingService.Test.csproj" />
   <Project Path="PricingService/PricingService.csproj" />
-  <Project Path="ProductService.Api/ProductService.Api.csproj" />
+  <Project Path="ProductService.Api/ProductService.Api.csproj" Id="3af5d147-1319-4b37-9aa8-7e0c869dbbd6" />
   <Project Path="ProductService.Test/ProductService.Test.csproj" />
   <Project Path="ProductService/ProductService.csproj" />
 </Solution>

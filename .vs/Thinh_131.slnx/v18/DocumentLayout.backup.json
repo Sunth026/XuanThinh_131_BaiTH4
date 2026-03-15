@@ -3,112 +3,20 @@
   "WorkspaceRootPath": "D:\\HK2\\TH_KienTruc\\Thinh_131\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2BB5190-C9C7-40F1-93E5-15F88BF84997}|PricingService.Test\\PricingService.Test.csproj|d:\\hk2\\th_kientruc\\thinh_131\\pricingservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2BB5190-C9C7-40F1-93E5-15F88BF84997}|PricingService.Test\\PricingService.Test.csproj|solutionrelative:pricingservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1187E059-3F10-B586-710F-B1559E62455A}|AuthService.Test\\AuthService.Test.csproj|d:\\hk2\\th_kientruc\\thinh_131\\authservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1187E059-3F10-B586-710F-B1559E62455A}|AuthService.Test\\AuthService.Test.csproj|solutionrelative:authservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5792FB27-4990-4C30-AABC-1D86E2A7202A}|PricingService.Api\\PricingService.Api.csproj|d:\\hk2\\th_kientruc\\thinh_131\\pricingservice.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5792FB27-4990-4C30-AABC-1D86E2A7202A}|PricingService.Api\\PricingService.Api.csproj|solutionrelative:pricingservice.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CDAB7B3-DE4F-6FF5-06F0-D824F083F1AF}|AuthService\\AuthService.csproj|d:\\hk2\\th_kientruc\\thinh_131\\authservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDAB7B3-DE4F-6FF5-06F0-D824F083F1AF}|AuthService\\AuthService.csproj|solutionrelative:authservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5D830CA-BA73-41DC-B59F-F9CF1C38A7E6}|PricingService\\PricingService.csproj|d:\\hk2\\th_kientruc\\thinh_131\\pricingservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5D830CA-BA73-41DC-B59F-F9CF1C38A7E6}|PricingService\\PricingService.csproj|solutionrelative:pricingservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|d:\\hk2\\th_kientruc\\thinh_131\\productservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|solutionrelative:productservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE3EBAF3-DA79-4402-A028-3E7BF55B3D95}|PolicyService.Test\\PolicyService.Test.csproj|d:\\hk2\\th_kientruc\\thinh_131\\policyservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE3EBAF3-DA79-4402-A028-3E7BF55B3D95}|PolicyService.Test\\PolicyService.Test.csproj|solutionrelative:policyservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64479145-DA55-43BF-B184-268BFAA7B8A6}|PolicyService.Api\\PolicyService.Api.csproj|d:\\hk2\\th_kientruc\\thinh_131\\policyservice.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64479145-DA55-43BF-B184-268BFAA7B8A6}|PolicyService.Api\\PolicyService.Api.csproj|solutionrelative:policyservice.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E809D4F-AD39-4FF6-8EA6-9FDC7CCAEEB2}|PolicyService\\PolicyService.csproj|d:\\hk2\\th_kientruc\\thinh_131\\policyservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E809D4F-AD39-4FF6-8EA6-9FDC7CCAEEB2}|PolicyService\\PolicyService.csproj|solutionrelative:policyservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C3693D8-003A-4014-B1A9-9AB08A57001A}|PolicySearchService.Test\\PolicySearchService.Test.csproj|d:\\hk2\\th_kientruc\\thinh_131\\policysearchservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C3693D8-003A-4014-B1A9-9AB08A57001A}|PolicySearchService.Test\\PolicySearchService.Test.csproj|solutionrelative:policysearchservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3B5ED42-372B-4735-B680-806E7CAA44DC}|PolicySearchService.Api\\PolicySearchService.Api.csproj|d:\\hk2\\th_kientruc\\thinh_131\\policysearchservice.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3B5ED42-372B-4735-B680-806E7CAA44DC}|PolicySearchService.Api\\PolicySearchService.Api.csproj|solutionrelative:policysearchservice.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A58B7CA-D38F-4F0B-B200-B24442A0D4F2}|PolicySearchService\\PolicySearchService.csproj|d:\\hk2\\th_kientruc\\thinh_131\\policysearchservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A58B7CA-D38F-4F0B-B200-B24442A0D4F2}|PolicySearchService\\PolicySearchService.csproj|solutionrelative:policysearchservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{447E8046-8D5A-44FA-A71F-C85513587EC4}|PaymentService.Test\\PaymentService.Test.csproj|d:\\hk2\\th_kientruc\\thinh_131\\paymentservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{447E8046-8D5A-44FA-A71F-C85513587EC4}|PaymentService.Test\\PaymentService.Test.csproj|solutionrelative:paymentservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77DFC682-5592-4115-97EB-9E2B019433E6}|PaymentService.Api\\PaymentService.Api.csproj|d:\\hk2\\th_kientruc\\thinh_131\\paymentservice.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77DFC682-5592-4115-97EB-9E2B019433E6}|PaymentService.Api\\PaymentService.Api.csproj|solutionrelative:paymentservice.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE20A75D-65ED-4AD8-A65A-47E240C6CE32}|PaymentService\\PaymentService.csproj|d:\\hk2\\th_kientruc\\thinh_131\\paymentservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE20A75D-65ED-4AD8-A65A-47E240C6CE32}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96CD43CB-4D0A-4845-9E64-277EDAD6776E}|DocumentService.Test\\DocumentService.Test.csproj|d:\\hk2\\th_kientruc\\thinh_131\\documentservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96CD43CB-4D0A-4845-9E64-277EDAD6776E}|DocumentService.Test\\DocumentService.Test.csproj|solutionrelative:documentservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E4F8FBF-E3FB-4468-AC93-3921F91E6702}|DocumentService.Api\\DocumentService.Api.csproj|d:\\hk2\\th_kientruc\\thinh_131\\documentservice.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E4F8FBF-E3FB-4468-AC93-3921F91E6702}|DocumentService.Api\\DocumentService.Api.csproj|solutionrelative:documentservice.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB4CBAA3-B133-46E0-B038-33A3454F3B58}|DocumentService\\DocumentService.csproj|d:\\hk2\\th_kientruc\\thinh_131\\documentservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB4CBAA3-B133-46E0-B038-33A3454F3B58}|DocumentService\\DocumentService.csproj|solutionrelative:documentservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9DE2AE7-6375-4302-A4FF-21497D75FD29}|ChatService.Test\\ChatService.Test.csproj|d:\\hk2\\th_kientruc\\thinh_131\\chatservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9DE2AE7-6375-4302-A4FF-21497D75FD29}|ChatService.Test\\ChatService.Test.csproj|solutionrelative:chatservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57407B4E-A96A-4554-9E79-0560A096430B}|ChatService.Api\\ChatService.Api.csproj|d:\\hk2\\th_kientruc\\thinh_131\\chatservice.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57407B4E-A96A-4554-9E79-0560A096430B}|ChatService.Api\\ChatService.Api.csproj|solutionrelative:chatservice.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31BEC79E-ED62-4D6D-B5FB-E1AA4C605504}|ChatService\\ChatService.csproj|d:\\hk2\\th_kientruc\\thinh_131\\chatservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31BEC79E-ED62-4D6D-B5FB-E1AA4C605504}|ChatService\\ChatService.csproj|solutionrelative:chatservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{797D09B1-FF42-4E10-A26D-4BBC65D9C1A1}|AuthService.Test\\AuthService.Test.csproj|d:\\hk2\\th_kientruc\\thinh_131\\authservice.test\\authservice.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{797D09B1-FF42-4E10-A26D-4BBC65D9C1A1}|AuthService.Test\\AuthService.Test.csproj|solutionrelative:authservice.test\\authservice.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31BD5EFE-EEE6-49B4-A512-4DA07FEC3D1F}|AuthService.Api\\AuthService.Api.csproj|d:\\hk2\\th_kientruc\\thinh_131\\authservice.api\\authservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{31BD5EFE-EEE6-49B4-A512-4DA07FEC3D1F}|AuthService.Api\\AuthService.Api.csproj|solutionrelative:authservice.api\\authservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{797D09B1-FF42-4E10-A26D-4BBC65D9C1A1}|AuthService.Test\\AuthService.Test.csproj|d:\\hk2\\th_kientruc\\thinh_131\\authservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{797D09B1-FF42-4E10-A26D-4BBC65D9C1A1}|AuthService.Test\\AuthService.Test.csproj|solutionrelative:authservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31BD5EFE-EEE6-49B4-A512-4DA07FEC3D1F}|AuthService.Api\\AuthService.Api.csproj|d:\\hk2\\th_kientruc\\thinh_131\\authservice.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31BD5EFE-EEE6-49B4-A512-4DA07FEC3D1F}|AuthService.Api\\AuthService.Api.csproj|solutionrelative:authservice.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D4A1FC0-A4F0-421B-9327-DC080A346663}|AuthService\\AuthService.csproj|d:\\hk2\\th_kientruc\\thinh_131\\authservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D4A1FC0-A4F0-421B-9327-DC080A346663}|AuthService\\AuthService.csproj|solutionrelative:authservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50D487A9-4C0D-4B18-AE2C-016BE63C2D5F}|ProductService.Api\\ProductService.Api.csproj|d:\\hk2\\th_kientruc\\thinh_131\\productservice.api\\productservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{50D487A9-4C0D-4B18-AE2C-016BE63C2D5F}|ProductService.Api\\ProductService.Api.csproj|solutionrelative:productservice.api\\productservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{913A9037-EA80-485C-AFF8-E165380C40C6}|ProductService\\ProductService.csproj|d:\\hk2\\th_kientruc\\thinh_131\\productservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{913A9037-EA80-485C-AFF8-E165380C40C6}|ProductService\\ProductService.csproj|solutionrelative:productservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF7AF15D-215A-4CAD-8145-7067BAF21EF7}|ProductService.Test\\ProductService.Test.csproj|d:\\hk2\\th_kientruc\\thinh_131\\productservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF7AF15D-215A-4CAD-8145-7067BAF21EF7}|ProductService.Test\\ProductService.Test.csproj|solutionrelative:productservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50D487A9-4C0D-4B18-AE2C-016BE63C2D5F}|ProductService.Api\\ProductService.Api.csproj|d:\\hk2\\th_kientruc\\thinh_131\\productservice.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50D487A9-4C0D-4B18-AE2C-016BE63C2D5F}|ProductService.Api\\ProductService.Api.csproj|solutionrelative:productservice.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D66FB2E-78BC-2590-8478-7EE7A290EBD1}|ProductService.Test\\ProductService.Test.csproj|d:\\hk2\\th_kientruc\\thinh_131\\productservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D66FB2E-78BC-2590-8478-7EE7A290EBD1}|ProductService.Test\\ProductService.Test.csproj|solutionrelative:productservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,320 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\PricingService.Test\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "PricingService.Test\\UnitTest1.cs",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\PricingService.Test\\UnitTest1.cs",
-              "RelativeToolTip": "PricingService.Test\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:35:32.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\PricingService.Api\\Class1.cs",
-              "RelativeDocumentMoniker": "PricingService.Api\\Class1.cs",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\PricingService.Api\\Class1.cs",
-              "RelativeToolTip": "PricingService.Api\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:35:20.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\PricingService\\Class1.cs",
-              "RelativeDocumentMoniker": "PricingService\\Class1.cs",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\PricingService\\Class1.cs",
-              "RelativeToolTip": "PricingService\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:35:11.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\PolicyService.Test\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "PolicyService.Test\\UnitTest1.cs",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\PolicyService.Test\\UnitTest1.cs",
-              "RelativeToolTip": "PolicyService.Test\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:34:26.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\PolicyService.Api\\Class1.cs",
-              "RelativeDocumentMoniker": "PolicyService.Api\\Class1.cs",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\PolicyService.Api\\Class1.cs",
-              "RelativeToolTip": "PolicyService.Api\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:34:14.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\PolicyService\\Class1.cs",
-              "RelativeDocumentMoniker": "PolicyService\\Class1.cs",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\PolicyService\\Class1.cs",
-              "RelativeToolTip": "PolicyService\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:33:55.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\PolicySearchService.Test\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "PolicySearchService.Test\\UnitTest1.cs",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\PolicySearchService.Test\\UnitTest1.cs",
-              "RelativeToolTip": "PolicySearchService.Test\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:31:17.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\PolicySearchService.Api\\Class1.cs",
-              "RelativeDocumentMoniker": "PolicySearchService.Api\\Class1.cs",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\PolicySearchService.Api\\Class1.cs",
-              "RelativeToolTip": "PolicySearchService.Api\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:31:06.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\PolicySearchService\\Class1.cs",
-              "RelativeDocumentMoniker": "PolicySearchService\\Class1.cs",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\PolicySearchService\\Class1.cs",
-              "RelativeToolTip": "PolicySearchService\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:30:53.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\PaymentService.Test\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "PaymentService.Test\\UnitTest1.cs",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\PaymentService.Test\\UnitTest1.cs",
-              "RelativeToolTip": "PaymentService.Test\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:30:21.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\PaymentService.Api\\Class1.cs",
-              "RelativeDocumentMoniker": "PaymentService.Api\\Class1.cs",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\PaymentService.Api\\Class1.cs",
-              "RelativeToolTip": "PaymentService.Api\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:30:09.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\PaymentService\\Class1.cs",
-              "RelativeDocumentMoniker": "PaymentService\\Class1.cs",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\PaymentService\\Class1.cs",
-              "RelativeToolTip": "PaymentService\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:29:56.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\DocumentService.Test\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "DocumentService.Test\\UnitTest1.cs",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\DocumentService.Test\\UnitTest1.cs",
-              "RelativeToolTip": "DocumentService.Test\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:29:16.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\DocumentService.Api\\Class1.cs",
-              "RelativeDocumentMoniker": "DocumentService.Api\\Class1.cs",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\DocumentService.Api\\Class1.cs",
-              "RelativeToolTip": "DocumentService.Api\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:29:05.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\DocumentService\\Class1.cs",
-              "RelativeDocumentMoniker": "DocumentService\\Class1.cs",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\DocumentService\\Class1.cs",
-              "RelativeToolTip": "DocumentService\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:28:56.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\ChatService.Test\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "ChatService.Test\\UnitTest1.cs",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\ChatService.Test\\UnitTest1.cs",
-              "RelativeToolTip": "ChatService.Test\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:28:14.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\ChatService.Api\\Class1.cs",
-              "RelativeDocumentMoniker": "ChatService.Api\\Class1.cs",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\ChatService.Api\\Class1.cs",
-              "RelativeToolTip": "ChatService.Api\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:28:03.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\ChatService\\Class1.cs",
-              "RelativeDocumentMoniker": "ChatService\\Class1.cs",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\ChatService\\Class1.cs",
-              "RelativeToolTip": "ChatService\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:27:50.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AuthService.Test",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\AuthService.Test\\AuthService.Test.csproj",
-              "RelativeDocumentMoniker": "AuthService.Test\\AuthService.Test.csproj",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\AuthService.Test\\AuthService.Test.csproj",
-              "RelativeToolTip": "AuthService.Test\\AuthService.Test.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-15T02:27:27.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AuthService.Api",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\AuthService.Api\\AuthService.Api.csproj",
-              "RelativeDocumentMoniker": "AuthService.Api\\AuthService.Api.csproj",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\AuthService.Api\\AuthService.Api.csproj",
-              "RelativeToolTip": "AuthService.Api\\AuthService.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-15T02:27:26.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\AuthService.Test\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "AuthService.Test\\UnitTest1.cs",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\AuthService.Test\\UnitTest1.cs",
-              "RelativeToolTip": "AuthService.Test\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:27:07.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\AuthService.Api\\Class1.cs",
-              "RelativeDocumentMoniker": "AuthService.Api\\Class1.cs",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\AuthService.Api\\Class1.cs",
-              "RelativeToolTip": "AuthService.Api\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:26:52.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\AuthService\\Class1.cs",
-              "RelativeDocumentMoniker": "AuthService\\Class1.cs",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\AuthService\\Class1.cs",
-              "RelativeToolTip": "AuthService\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:26:27.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ProductService.Api",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\ProductService.Api\\ProductService.Api.csproj",
-              "RelativeDocumentMoniker": "ProductService.Api\\ProductService.Api.csproj",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\ProductService.Api\\ProductService.Api.csproj",
-              "RelativeToolTip": "ProductService.Api\\ProductService.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-15T02:25:31.246Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -458,7 +54,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\AuthService.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "AuthService.Test\\UnitTest1.cs",
+              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\AuthService.Test\\UnitTest1.cs",
+              "RelativeToolTip": "AuthService.Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T03:02:12.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\AuthService\\Class1.cs",
+              "RelativeDocumentMoniker": "AuthService\\Class1.cs",
+              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\AuthService\\Class1.cs",
+              "RelativeToolTip": "AuthService\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T03:02:12.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\ProductService\\Class1.cs",
               "RelativeDocumentMoniker": "ProductService\\Class1.cs",
@@ -466,12 +88,12 @@
               "RelativeToolTip": "ProductService\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:24:16.128Z",
+              "WhenOpened": "2026-03-15T03:02:12.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 3,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\ProductService.Test\\UnitTest1.cs",
               "RelativeDocumentMoniker": "ProductService.Test\\UnitTest1.cs",
@@ -479,20 +101,7 @@
               "RelativeToolTip": "ProductService.Test\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:19:09.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\ProductService.Api\\Class1.cs",
-              "RelativeDocumentMoniker": "ProductService.Api\\Class1.cs",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\ProductService.Api\\Class1.cs",
-              "RelativeToolTip": "ProductService.Api\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:18:39.204Z",
+              "WhenOpened": "2026-03-15T03:02:12.857Z",
               "EditorCaption": ""
             }
           ]
