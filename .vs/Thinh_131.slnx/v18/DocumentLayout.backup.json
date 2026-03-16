@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\HK2\\TH_KienTruc\\Thinh_131\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1187E059-3F10-B586-710F-B1559E62455A}|AuthService.Test\\AuthService.Test.csproj|d:\\hk2\\th_kientruc\\thinh_131\\authservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1187E059-3F10-B586-710F-B1559E62455A}|AuthService.Test\\AuthService.Test.csproj|solutionrelative:authservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CDAB7B3-DE4F-6FF5-06F0-D824F083F1AF}|AuthService\\AuthService.csproj|d:\\hk2\\th_kientruc\\thinh_131\\authservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CDAB7B3-DE4F-6FF5-06F0-D824F083F1AF}|AuthService\\AuthService.csproj|solutionrelative:authservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|d:\\hk2\\th_kientruc\\thinh_131\\productservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|solutionrelative:productservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D66FB2E-78BC-2590-8478-7EE7A290EBD1}|ProductService.Test\\ProductService.Test.csproj|d:\\hk2\\th_kientruc\\thinh_131\\productservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D66FB2E-78BC-2590-8478-7EE7A290EBD1}|ProductService.Test\\ProductService.Test.csproj|solutionrelative:productservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,58 +34,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\AuthService.Test\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "AuthService.Test\\UnitTest1.cs",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\AuthService.Test\\UnitTest1.cs",
-              "RelativeToolTip": "AuthService.Test\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T03:02:12.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\AuthService\\Class1.cs",
-              "RelativeDocumentMoniker": "AuthService\\Class1.cs",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\AuthService\\Class1.cs",
-              "RelativeToolTip": "AuthService\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T03:02:12.828Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\ProductService\\Class1.cs",
-              "RelativeDocumentMoniker": "ProductService\\Class1.cs",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\ProductService\\Class1.cs",
-              "RelativeToolTip": "ProductService\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T03:02:12.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\HK2\\TH_KienTruc\\Thinh_131\\ProductService.Test\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "ProductService.Test\\UnitTest1.cs",
-              "ToolTip": "D:\\HK2\\TH_KienTruc\\Thinh_131\\ProductService.Test\\UnitTest1.cs",
-              "RelativeToolTip": "ProductService.Test\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T03:02:12.857Z",
-              "EditorCaption": ""
             }
           ]
         }

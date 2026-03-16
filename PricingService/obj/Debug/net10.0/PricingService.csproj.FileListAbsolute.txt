@@ -1,0 +1,12 @@
+D:\HK2\TH_KienTruc\Thinh_131\PricingService\bin\Debug\net10.0\PricingService.deps.json
+D:\HK2\TH_KienTruc\Thinh_131\PricingService\bin\Debug\net10.0\PricingService.dll
+D:\HK2\TH_KienTruc\Thinh_131\PricingService\bin\Debug\net10.0\PricingService.pdb
+D:\HK2\TH_KienTruc\Thinh_131\PricingService\obj\Debug\net10.0\PricingService.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK2\TH_KienTruc\Thinh_131\PricingService\obj\Debug\net10.0\PricingService.AssemblyInfoInputs.cache
+D:\HK2\TH_KienTruc\Thinh_131\PricingService\obj\Debug\net10.0\PricingService.AssemblyInfo.cs
+D:\HK2\TH_KienTruc\Thinh_131\PricingService\obj\Debug\net10.0\PricingService.csproj.CoreCompileInputs.cache
+D:\HK2\TH_KienTruc\Thinh_131\PricingService\obj\Debug\net10.0\PricingService.sourcelink.json
+D:\HK2\TH_KienTruc\Thinh_131\PricingService\obj\Debug\net10.0\PricingService.dll
+D:\HK2\TH_KienTruc\Thinh_131\PricingService\obj\Debug\net10.0\refint\PricingService.dll
+D:\HK2\TH_KienTruc\Thinh_131\PricingService\obj\Debug\net10.0\PricingService.pdb
+D:\HK2\TH_KienTruc\Thinh_131\PricingService\obj\Debug\net10.0\ref\PricingService.dll

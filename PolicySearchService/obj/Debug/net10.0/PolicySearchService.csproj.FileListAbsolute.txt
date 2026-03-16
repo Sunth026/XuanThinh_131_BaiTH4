@@ -1,0 +1,12 @@
+D:\HK2\TH_KienTruc\Thinh_131\PolicySearchService\bin\Debug\net10.0\PolicySearchService.deps.json
+D:\HK2\TH_KienTruc\Thinh_131\PolicySearchService\bin\Debug\net10.0\PolicySearchService.dll
+D:\HK2\TH_KienTruc\Thinh_131\PolicySearchService\bin\Debug\net10.0\PolicySearchService.pdb
+D:\HK2\TH_KienTruc\Thinh_131\PolicySearchService\obj\Debug\net10.0\PolicySearchService.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK2\TH_KienTruc\Thinh_131\PolicySearchService\obj\Debug\net10.0\PolicySearchService.AssemblyInfoInputs.cache
+D:\HK2\TH_KienTruc\Thinh_131\PolicySearchService\obj\Debug\net10.0\PolicySearchService.AssemblyInfo.cs
+D:\HK2\TH_KienTruc\Thinh_131\PolicySearchService\obj\Debug\net10.0\PolicySearchService.csproj.CoreCompileInputs.cache
+D:\HK2\TH_KienTruc\Thinh_131\PolicySearchService\obj\Debug\net10.0\PolicySearchService.sourcelink.json
+D:\HK2\TH_KienTruc\Thinh_131\PolicySearchService\obj\Debug\net10.0\PolicySearchService.dll
+D:\HK2\TH_KienTruc\Thinh_131\PolicySearchService\obj\Debug\net10.0\refint\PolicySearchService.dll
+D:\HK2\TH_KienTruc\Thinh_131\PolicySearchService\obj\Debug\net10.0\PolicySearchService.pdb
+D:\HK2\TH_KienTruc\Thinh_131\PolicySearchService\obj\Debug\net10.0\ref\PolicySearchService.dll

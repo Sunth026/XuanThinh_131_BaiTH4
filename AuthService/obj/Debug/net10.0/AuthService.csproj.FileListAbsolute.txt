@@ -1,0 +1,12 @@
+D:\HK2\TH_KienTruc\Thinh_131\AuthService\bin\Debug\net10.0\AuthService.deps.json
+D:\HK2\TH_KienTruc\Thinh_131\AuthService\bin\Debug\net10.0\AuthService.dll
+D:\HK2\TH_KienTruc\Thinh_131\AuthService\bin\Debug\net10.0\AuthService.pdb
+D:\HK2\TH_KienTruc\Thinh_131\AuthService\obj\Debug\net10.0\AuthService.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK2\TH_KienTruc\Thinh_131\AuthService\obj\Debug\net10.0\AuthService.AssemblyInfoInputs.cache
+D:\HK2\TH_KienTruc\Thinh_131\AuthService\obj\Debug\net10.0\AuthService.AssemblyInfo.cs
+D:\HK2\TH_KienTruc\Thinh_131\AuthService\obj\Debug\net10.0\AuthService.csproj.CoreCompileInputs.cache
+D:\HK2\TH_KienTruc\Thinh_131\AuthService\obj\Debug\net10.0\AuthService.sourcelink.json
+D:\HK2\TH_KienTruc\Thinh_131\AuthService\obj\Debug\net10.0\AuthService.dll
+D:\HK2\TH_KienTruc\Thinh_131\AuthService\obj\Debug\net10.0\refint\AuthService.dll
+D:\HK2\TH_KienTruc\Thinh_131\AuthService\obj\Debug\net10.0\AuthService.pdb
+D:\HK2\TH_KienTruc\Thinh_131\AuthService\obj\Debug\net10.0\ref\AuthService.dll

@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="AgentPortalApiGateway/AgentPortalApiGateway.csproj" />
   <Project Path="AuthService.Api/AuthService.Api.csproj" Id="3b955085-47e5-4cdc-b578-158f9568b19d" />
   <Project Path="AuthService.Test/AuthService.Test.csproj" />
   <Project Path="AuthService/AuthService.csproj" />

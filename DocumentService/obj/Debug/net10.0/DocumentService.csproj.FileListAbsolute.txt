@@ -1,0 +1,12 @@
+D:\HK2\TH_KienTruc\Thinh_131\DocumentService\bin\Debug\net10.0\DocumentService.deps.json
+D:\HK2\TH_KienTruc\Thinh_131\DocumentService\bin\Debug\net10.0\DocumentService.dll
+D:\HK2\TH_KienTruc\Thinh_131\DocumentService\bin\Debug\net10.0\DocumentService.pdb
+D:\HK2\TH_KienTruc\Thinh_131\DocumentService\obj\Debug\net10.0\DocumentService.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK2\TH_KienTruc\Thinh_131\DocumentService\obj\Debug\net10.0\DocumentService.AssemblyInfoInputs.cache
+D:\HK2\TH_KienTruc\Thinh_131\DocumentService\obj\Debug\net10.0\DocumentService.AssemblyInfo.cs
+D:\HK2\TH_KienTruc\Thinh_131\DocumentService\obj\Debug\net10.0\DocumentService.csproj.CoreCompileInputs.cache
+D:\HK2\TH_KienTruc\Thinh_131\DocumentService\obj\Debug\net10.0\DocumentService.sourcelink.json
+D:\HK2\TH_KienTruc\Thinh_131\DocumentService\obj\Debug\net10.0\DocumentService.dll
+D:\HK2\TH_KienTruc\Thinh_131\DocumentService\obj\Debug\net10.0\refint\DocumentService.dll
+D:\HK2\TH_KienTruc\Thinh_131\DocumentService\obj\Debug\net10.0\DocumentService.pdb
+D:\HK2\TH_KienTruc\Thinh_131\DocumentService\obj\Debug\net10.0\ref\DocumentService.dll
